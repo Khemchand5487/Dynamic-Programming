@@ -1,3 +1,9 @@
+/*
+Title: Dice Combinations
+Link: https://cses.fi/problemset/task/1633
+Complexity: Time - O(N); Space - O(N) 
+*/
+
 /** Solution By khemchand5487 **/
 
 #include <bits/stdc++.h>
